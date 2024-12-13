@@ -1,0 +1,15 @@
+
+
+
+# Firebase
+
+REACT_APP_API_KEY="AIzaSyAsXR9aKh9nRBSkZqa7ZlkIjbxj_P6sk7o",
+REACT_APP_AUTH_DOMAIN="uxuiportal.firebaseapp.com",
+REACT_APP_PROJECT_ID= "uxuiportal",
+REACT_APP_STORAGE_BUCKET= "uxuiportal.firebasestorage.app",
+REACT_APP_MESSAGING_SENDER_ID="298929882692",
+REACT_APP_APP_ID="1:298929882692:web:d16dde3e05ddecac1e5e11",
+REACT_APP_MEASUREMENT_ID="G-1WJBY5YZ6M"
+
+
+
