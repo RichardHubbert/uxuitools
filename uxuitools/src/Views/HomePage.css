@@ -1,0 +1,45 @@
+.cafe-homepage {
+    text-align: center;
+    padding: 2rem;
+}
+
+.cafe-color-box {
+    width: 200px;
+    height: 200px;
+    margin: 2rem auto;
+    transition: background-color 0.3s ease;
+}
+
+.cafe-blue {
+    background-color: #4169e1;
+}
+
+.cafe-red {
+    background-color: #dc143c;
+}
+
+.cafe-button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.cafe-button:hover {
+    background-color: #555;
+}
+
+.cafe-homepage h1 {
+    color: #333;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+
+.cafe-homepage p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
